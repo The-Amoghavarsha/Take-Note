@@ -1,0 +1,21 @@
+.card {width:49%;margin-left: 6px;}
+.card-header i {float:right;}
+.fa-trash, .fa-pencil-alt {cursor: pointer;}
+.hidden {display:none}
+.swatch {width:20px; height:20px; float:left; margin-right:10px; border-radius: 50%; cursor: pointer; }
+.swatch:hover, .active  {border: 3px solid rgb(247, 189, 189)}
+
+.fas.fa-book-open.text-primary {
+    color: #28A745 !important;
+}
+
+.btn.btn-primary.btn-block {
+    background-color: #28A745; 
+    border-color: #28A745;
+}
+
+.btn.btn-primary.btn-block:hover {
+    background-color: #218838; 
+    border-color: #218838;
+}
+
